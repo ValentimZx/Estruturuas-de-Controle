@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Intrucao_If/1.0.0": {
+        "runtime": {
+          "Intrucao_If.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intrucao_If/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

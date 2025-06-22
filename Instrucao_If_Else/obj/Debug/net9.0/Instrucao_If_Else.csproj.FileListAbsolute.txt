@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\bin\Debug\net9.0\Instrucao_If_Else.exe
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\bin\Debug\net9.0\Instrucao_If_Else.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\bin\Debug\net9.0\Instrucao_If_Else.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\bin\Debug\net9.0\Instrucao_If_Else.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\bin\Debug\net9.0\Instrucao_If_Else.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\refint\Instrucao_If_Else.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\Instrucao_If_Else.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_If_Else\obj\Debug\net9.0\ref\Instrucao_If_Else.dll
