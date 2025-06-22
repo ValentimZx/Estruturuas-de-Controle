@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\bin\Debug\net9.0\Instrucao_Switch_Case.exe
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\bin\Debug\net9.0\Instrucao_Switch_Case.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\bin\Debug\net9.0\Instrucao_Switch_Case.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\bin\Debug\net9.0\Instrucao_Switch_Case.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\bin\Debug\net9.0\Instrucao_Switch_Case.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\refint\Instrucao_Switch_Case.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\Instrucao_Switch_Case.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_Switch_Case\obj\Debug\net9.0\ref\Instrucao_Switch_Case.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intrucao_If")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697f4231b9fd0a897f35ada49f53eab9de87ca60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187302b68ebdd4347d2b9ebf865ee040e8027acd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intrucao_If")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intrucao_If")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
