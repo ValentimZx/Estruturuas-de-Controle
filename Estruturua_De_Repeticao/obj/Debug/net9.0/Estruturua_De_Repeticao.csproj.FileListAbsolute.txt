@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\bin\Debug\net9.0\Estruturua_De_Repeticao.exe
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\bin\Debug\net9.0\Estruturua_De_Repeticao.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\bin\Debug\net9.0\Estruturua_De_Repeticao.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\bin\Debug\net9.0\Estruturua_De_Repeticao.dll
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\bin\Debug\net9.0\Estruturua_De_Repeticao.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.dll
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\refint\Estruturua_De_Repeticao.dll
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\Estruturua_De_Repeticao.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Estruturua_De_Repeticao\obj\Debug\net9.0\ref\Estruturua_De_Repeticao.dll

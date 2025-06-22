@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\bin\Debug\net9.0\Instrucao_While.exe
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\bin\Debug\net9.0\Instrucao_While.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\bin\Debug\net9.0\Instrucao_While.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\bin\Debug\net9.0\Instrucao_While.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\bin\Debug\net9.0\Instrucao_While.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\refint\Instrucao_While.dll
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\Instrucao_While.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Instrucao_While\obj\Debug\net9.0\ref\Instrucao_While.dll
