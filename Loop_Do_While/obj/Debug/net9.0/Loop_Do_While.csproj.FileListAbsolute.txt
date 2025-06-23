@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\bin\Debug\net9.0\Loop_Do_While.exe
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\bin\Debug\net9.0\Loop_Do_While.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\bin\Debug\net9.0\Loop_Do_While.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\bin\Debug\net9.0\Loop_Do_While.dll
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\bin\Debug\net9.0\Loop_Do_While.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.dll
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\refint\Loop_Do_While.dll
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\Loop_Do_While.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Loop_Do_While\obj\Debug\net9.0\ref\Loop_Do_While.dll
