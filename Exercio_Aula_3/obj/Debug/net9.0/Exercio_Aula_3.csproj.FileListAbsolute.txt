@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\bin\Debug\net9.0\Exercio_Aula_3.exe
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\bin\Debug\net9.0\Exercio_Aula_3.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\bin\Debug\net9.0\Exercio_Aula_3.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\bin\Debug\net9.0\Exercio_Aula_3.dll
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\bin\Debug\net9.0\Exercio_Aula_3.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.dll
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\refint\Exercio_Aula_3.dll
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\Exercio_Aula_3.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Exercio_Aula_3\obj\Debug\net9.0\ref\Exercio_Aula_3.dll

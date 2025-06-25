@@ -1,0 +1,15 @@
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\bin\Debug\net9.0\Break_Continue.exe
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\bin\Debug\net9.0\Break_Continue.deps.json
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\bin\Debug\net9.0\Break_Continue.runtimeconfig.json
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\bin\Debug\net9.0\Break_Continue.dll
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\bin\Debug\net9.0\Break_Continue.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.AssemblyInfoInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.AssemblyInfo.cs
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.csproj.CoreCompileInputs.cache
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.sourcelink.json
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.dll
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\refint\Break_Continue.dll
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.pdb
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\Break_Continue.genruntimeconfig.cache
+c:\Users\borge\Documents\Estruturas de Controle\Break_Continue\obj\Debug\net9.0\ref\Break_Continue.dll
